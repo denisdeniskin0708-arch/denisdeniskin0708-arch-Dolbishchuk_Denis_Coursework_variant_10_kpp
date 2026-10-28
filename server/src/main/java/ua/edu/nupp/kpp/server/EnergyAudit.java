@@ -58,4 +58,3 @@ public class EnergyAudit {
         this.status = status;
     }
 }
-

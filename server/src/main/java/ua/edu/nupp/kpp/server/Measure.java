@@ -58,4 +58,3 @@ public class Measure {
         this.expectedSavings = expectedSavings;
     }
 }
-

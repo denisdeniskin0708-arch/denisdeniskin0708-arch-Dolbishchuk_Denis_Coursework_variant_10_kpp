@@ -38,4 +38,3 @@ public class Facility {
         this.address = address;
     }
 }
-
